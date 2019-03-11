@@ -3209,9 +3209,9 @@ class-utils@^0.3.5:
     isobject "^3.0.0"
     static-extend "^0.1.1"
 
-"clean-documentation-theme@git+https://github.com/cryptoquick/clean-documentation-theme.git#abe80d142694af0ed9d0159b8f30d36d2469ba6f":
+"clean-documentation-theme@git+https://github.com/cryptoquick/clean-documentation-theme.git#d362c0912a4c7014cd218a52065a1337762e18ed":
   version "0.5.1"
-  resolved "git+https://github.com/cryptoquick/clean-documentation-theme.git#abe80d142694af0ed9d0159b8f30d36d2469ba6f"
+  resolved "git+https://github.com/cryptoquick/clean-documentation-theme.git#d362c0912a4c7014cd218a52065a1337762e18ed"
   dependencies:
     "@babel/core" "^7.0.0"
     babel-plugin-transform-inline-imports-commonjs "^1.2.0"
