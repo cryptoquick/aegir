@@ -59,7 +59,7 @@
     "browserify-zlib": "~0.2.0",
     "bundlesize": "~0.17.1",
     "chalk": "^2.4.1",
-    "clean-documentation-theme": "~0.5.2",
+    "clean-documentation-theme": "git+https://github.com/cryptoquick/clean-documentation-theme.git#6cb811b99a417553b8a9cfb31365b68bb0a17738",
     "codecov": "^3.1.0",
     "conventional-changelog": "^2.0.3",
     "conventional-github-releaser": "^2.0.0",
